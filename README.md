@@ -1076,6 +1076,8 @@ Some data mining competition platforms
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 - [IBB Open Portal](https://data.ibb.gov.tr/en/)
 - [The Humanitarian Data Exchange](https://data.humdata.org/)
+- [250k+ Job Postings](https://aws.amazon.com/marketplace/pp/prodview-p2554p3tczbes) - An expanding dataset of historical job postings from Luxembourg from 2020 to today. Free with 250k+ job postings hosted on AWS Data Exchange.
+
 
 ### Comics
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1123,7 +1125,8 @@ Some data mining competition platforms
 - [Is Data Science a Good Career?](https://www.scaler.com/blog/is-data-science-a-good-career/)
 - [The Future of Data Science: Predictions and Trends](https://www.appliedaicourse.com/blog/future-of-data-science/)
 - [Data Science and Machine Learning: What’s The Difference?](https://www.appliedaicourse.com/blog/data-science-and-machine-learning-whats-the-difference/)
-
+- [AI in Data Science: Uses, Roles, and Tools](https://www.scaler.com/blog/ai-in-data-science/)
+- [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 
 
 ### Hobby
