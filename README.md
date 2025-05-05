@@ -365,6 +365,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [XGBoost](https://github.com/dmlc/xgboost)
 * [LightGBM](https://github.com/microsoft/LightGBM)
 * [CatBoost](https://github.com/catboost/catboost)
+* [PerpetualBooster](https://github.com/perpetual-ml/perpetual)
 * [JAX](https://github.com/google/jax)
 
 ### Deep Learning Packages
@@ -583,6 +584,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [SHAP](https://github.com/slundberg/shap) | Game theoretic approach to explain the output of any machine learning model |
 | [LIME](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 | [zasper](https://github.com/zasper-io/zasper) | Supercharged IDE for Data Science |
+| [skrub](https://github.com/skrub-data/skrub/) | A Python library to ease preprocessing and feature engineering for tabular machine learning |
+
 
 
 ## Literature and Media
@@ -1127,6 +1130,8 @@ Some data mining competition platforms
 - [Data Science and Machine Learning: What’s The Difference?](https://www.appliedaicourse.com/blog/data-science-and-machine-learning-whats-the-difference/)
 - [AI in Data Science: Uses, Roles, and Tools](https://www.scaler.com/blog/ai-in-data-science/)
 - [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
+- [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
+- [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
 
 
 ### Hobby
